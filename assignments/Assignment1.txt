@@ -1,0 +1,65 @@
+1. Outdoor surveillance : 
+IOT can be combined with AI and ML applications which can automate surveillance of street through IOT connected cameras
+
+2. Smart lighting : 
+Smart lighting is made up of street lighting with IOT sensors. Sensors collect data about the condition of traffic and pedestrians. 
+
+3. Smart parking : 
+In big cities, parking is a big problem. With IOT sensors, parking problems in a city can be minimized.
+
+4. Noise Monitoring : 
+In smart cities, sound monitoring systems can monitor noise levels and warn companies that violate limits and help manage noise levels.
+
+5. Remote Patient Monitoring :
+RPM enables real-time data collection about patients body temperature which is the main indicator of infections. With RPM, doctors can observe patients data and provide early diagnoses.
+
+6. Waste Management :
+IOT sensors can monitor fill levels for conventional bins and send the data to the relevant department of the city hall. With that information, the garbage truck routes can be optimized for trash collection.
+
+7. Water conservation :
+Sensors detect the water level in tanks and alerts when the water level is lower than the threshold. 
+
+8. Smart Irrigation :
+IOT sensors determine the weather condition and the soil moisture, which will help in getting the appropriate amount of water that soil needs. 
+
+9. Leakage Management :
+IOT sensors can detect temperature changes, water leakage, chemical leakage, and pressure level in water tanks.
+
+10. Water Quality Management :
+IOT sensors determine what kind of chemicals are in the water. They also identify metrics such as total dissolved solids (TDS), bacteria, chlorine, electrical conductivity, etc.
+
+11. Fall Detection :
+Falling into the ground and not being able to get up or request help can be a scary experience for old people. IOT sensors can detect falls using geolocation data and call someone for help so that it reduces the time the elderly remain on the floor after a fall which could lead to lethal consequences.
+
+12. Companion Robots :
+A companion robot is a robot that is designed to create companionship mostly for elderly and single children. IOT sensors are essential for robotics and it is the same for companion robots as well. Sensors detect objects that surround the robot and enable the robot to move. 
+
+13. Medical Fridges :
+Medical fridges monitor the temperature of vaccines, medicines and organic elements for clinics and health centers. Medical fridges provide an opportunity to follow all safety standards and national regulations of the pharmaceutical market using IOT sensors. They prevent medicines and vaccines from spoiling.
+
+14. Near Field Communication (NFC) Payment :
+NFC enables contactless payments. POS vendors include NFC support in their systems, and customers are adopting contactless payments via their smartphones.
+
+15. Smart Product Management :
+IOT sensors enable retailers to control the rotation of products on shelves and warehouses to automate merchandising decisions. 
+
+16. Remote Control Appliances :
+IOT powered home appliances let residents remotely switch on and off devices using smartphone apps to avoid incidents and save energy.
+turning on lights,
+starting the coffee maker,
+setting temperature,
+open up a music playlist,
+locking doors.
+
+17. Motion detection :
+IOT system that streams homes/office videos and lets users receive alerts when it detects any activity.
+
+18. Smart Grid :
+For utility companies, IOT enables remote data management and monitoring capabilities to manage better power flows into and out of their grids, and give users the insights needed to understand their energy infrastructure investments.
+
+19. Platooning :
+Platooning involves a group of self-driving trucks that follow a lead truck at high speed safely and efficiently. Trucks use IOT sensors so that each truck communicates with the other trucks to adapt its speed and braking accordingly.
+
+20. Fleet Tracking :
+Through GPS monitoring and geo-location tools, companies can track the location of their trucks, optimize routes and monitor their fleet utilization in detail.
+
